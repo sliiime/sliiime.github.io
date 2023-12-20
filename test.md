@@ -1,6 +1,6 @@
 layout: page
 title: "Sloppy Toppy"
-permalink: /sloppy/toppy
+permalink: /sloppy/toppy/
 
 She got the sloppy toppy (Ugh), bitches want my broccoli
 She after my money, Monopoly (Huh?)
